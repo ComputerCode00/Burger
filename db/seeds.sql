@@ -9,4 +9,4 @@ values ('Veggie Burger', false);
 
 insert into burgers (burger_name, devoured)
 values ('Whooper Burger', true);
-
+   
